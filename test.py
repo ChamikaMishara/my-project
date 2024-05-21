@@ -1,5 +1,3 @@
-# main.py
-
 from vehicles import list_vehicles
 from fruits import list_fruits
 from animals import list_animals
